@@ -1,8 +1,7 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center;">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/964231063350919947/05ED45CCAE789ADEFB867739F27FCF558954D7DA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="75" style="margin-right: 10px;"/>
   <img src="https://www.codewars.com/users/PathOfPain/badges/large" alt="CodeWars"/>
 </div>
-
 Frontend developer
 ------------------
 
